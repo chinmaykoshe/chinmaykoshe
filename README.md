@@ -1,7 +1,7 @@
 # Hi, I'm Chinmay 👋
 
 💻 **MCA Student & Full-Stack Developer** | 🚀 Building scalable web apps  
-📍 Mumbai, India | 🔗 [Portfolio](http://chinmaykoshe.netlify.app/) | 📧 chinmaykoshe@example.com
+📍 Mumbai, India | 🔗 [Portfolio](http://chinmaykoshe.netlify.app/) | 📧 [chinmaykoshe2004@gmail.com](mailto:chinmaykoshe2004@gmail.com)
 
 ![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaykoshe&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykoshe&layout=compact&theme=tokyonight&hide_border=true)
@@ -10,17 +10,13 @@
 
 ## 👨‍💻 About Me
 
-Passionate developer who **learns by shipping**. From vanilla JS portfolios to Firebase-powered e-commerce, I build clean, accessible, production-ready apps.
+Passionate developer who **learns by shipping**. Mastered full-stack e-commerce with Firebase + React, building accessible, production-ready apps.
 
-**Currently building:**
-- Full-stack e-commerce with React + Firebase
-- Chrome extensions & developer tools
-- Accessible UIs (ARIA, semantic HTML)
-
-**Recent Wins:**
-- Deployed 5+ live projects on Netlify (e.g., [Glow Naturals](https://github.com/chinmaykoshe/glow-naturals-new), [Ritual Cakes](https://github.com/chinmaykoshe/ritual-cakes-new))
-- PDF Merge Chrome Extension: Drag-drop, preview, instant download
-- 21 repos, consistent weekly commits
+**Recent Highlights:**
+- **21 repos** • **2 followers** • **12 stars** • Weekly commits
+- Full-stack e-commerce (auth, realtime cart, CRUD operations)
+- Chrome extensions • Accessibility specialist • Live deployments
+- Updated **12 minutes ago** 🚀
 
 > "Consistency beats intensity. Build daily."
 
@@ -28,46 +24,83 @@ Passionate developer who **learns by shipping**. From vanilla JS portfolios to F
 
 ## 🛠️ Tech Stack
 
-| **Frontend** | **Backend/Database** | **Tools** |
-|--------------|----------------------|-----------|
-| React, JS ES6+ | Firebase (Auth, Firestore, Functions) | Vite, Tailwind CSS, Git |
-| HTML5, CSS3 | SQL Basics, REST APIs | VS Code, Netlify |
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCB91?style=flat&logo=firebase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-3DD5F3?style=flat&logo=tailwind&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎨 [React Portfolio Website](https://github.com/chinmaykoshe/React-portfolio-website)
-Modern responsive portfolio with scroll animations, custom cursors, confetti effects. **React + Vite + Tailwind**.
+### 🔥 **Top Major Projects** `ecommerce` `firebase` `fullstack`
 
-### 🛒 [Ritual Cakes E-Commerce](https://github.com/chinmaykoshe/ritual-cakes-new)
-Full-stack shop: Auth, product CRUD, Firestore realtime cart. **Live Demo** [here](https://ritual-cakes--alpha.vercel.app).
+[![🛒 Ritual Cakes Live](https://img.shields.io/badge/Live-🛒_Ritual_Cakes-00C7B7?style=flat&logo=vercel)](https://ritual-cakes--alpha.vercel.app/)
+**🛒 [Ritual Cakes E-Commerce](https://github.com/chinmaykoshe/ritual-cakes-new)**  
+Full-stack cake shop: Firebase Auth, Firestore products, realtime cart.  
+`JavaScript` `1⭐` `Updated 2 days ago`
 
-### 📄 [PDF Merge Extension](https://github.com/chinmaykoshe/pdf-merge-extension)
-Chrome extension for drag-drop PDF merging with previews. **1⭐ | Practical tooling**.
+[![🌟 Glow Naturals Live](https://img.shields.io/badge/Live-🌟_Glow_Naturals-00C7B7?style=flat&logo=netlify)](https://glownaturals.netlify.app/)
+**🌟 [Glow Naturals E-Commerce](https://github.com/chinmaykoshe/glow-naturals-new)**  
+Premium skincare shop with modern Tailwind UI.  
+`JavaScript` `Updated 3 days ago`
 
-### 📝 [ResumeCraft Builder](https://github.com/chinmaykoshe/resume-builder)
-Dynamic resume generator with PDF export. **Clean UX focus**.
+### ⭐ **Major Projects** `react` `javascript` `mern`
 
-**More projects** → [21 Repos](https://github.com/chinmaykoshe?tab=repositories)
+**💼 [Hiring Hub](https://github.com/chinmaykoshe/hiring-hub)** `job-board` `1⭐` `Updated 2 weeks ago`  
+Job platform with structured search & filters.
+
+**📚 [Visual Classroom](https://github.com/chinmaykoshe/visualclassrom)** `edtech` `1⭐` `Updated Jan 4`  
+Interactive learning platform with animations.
+
+**🍕 [FoodFly](https://github.com/chinmaykoshe/foodfly)** `food-delivery` `1⭐` `Updated Jan 4`  
+Food delivery app with smooth checkout flow.
+
+**🏨 [Hotel Hunt](https://github.com/chinmaykoshe/hotel-hunt)** `mern` `1⭐` `Updated Jan 4`  
+Hotel booking system built with MERN stack.
+
+### ⚡ **Utility Projects** `accessibility` `chrome-ext` `tools`
+
+[![♿ Accessible Stocks Live](https://img.shields.io/badge/Live-♿_Stocks-00C7B7?style=flat&logo=github)](https://chinmaykoshe.github.io/Accessible-Stocks-Task/)
+**♿ [Accessible Stocks Task](https://github.com/chinmaykoshe/Accessible-Stocks-Task)** `a11y` `ARIA` `Updated 3 days ago`  
+Semantic HTML + ARIA roles for screen readers.
+
+[![📄 Resume Builder Live](https://img.shields.io/badge/Live-📄_Resume-00C7B7?style=flat&logo=github)](https://chinmaykoshe.github.io/resume-builder/)
+**📄 [ResumeCraft Builder](https://github.com/chinmaykoshe/resume-builder)** `resume` `1⭐` `Updated 4 days ago`  
+Dynamic resume generator + PDF export.
+
+[![📱 Firebase Notepad Live](https://img.shields.io/badge/Live-📱_Notepad-00C7B7?style=flat&logo=github)](https://chinmaykoshe.github.io/firebase-notepad/freenote.html)
+**📱 [Firebase Notepad](https://github.com/chinmaykoshe/firebase-notepad)** `collab` `1⭐` `Updated Oct 14`  
+Realtime collaborative notepad with Firebase.
+
+[![🌐 Mini Portfolio Live](https://img.shields.io/badge/Live-🌐_Portfolio-00C7B7?style=flat&logo=github)](https://chinmaykoshe.github.io/mini-portfolio/)
+**🌐 [Mini Portfolio](https://github.com/chinmaykoshe/mini-portfolio)** `portfolio` `Updated Dec 23`  
+Clean responsive portfolio showcase.
+
+**🔧 [PDF Merge Extension](https://github.com/chinmaykoshe/pdf-merge-extension)** `chrome-ext` `pdf` `1⭐` `Nov 10`  
+Drag-drop PDF merger with preview. `chrome-extension` `pdf-merger`
+
+**[View all 21 repositories →](https://github.com/chinmaykoshe?tab=repositories)**
 
 ---
 
-## 📚 What I'm Learning & Building
+## 📚 Currently Learning
 
-- Backend scalability (Firebase Functions, system design)
-- Python dev tools (Sphinx docs)
-- Open-source contributions
-- Advanced React (hooks, context, testing)
+`backend` `system-design` `testing` `opensource`
+- Firebase Functions & scalability
+- Python tooling (Sphinx documentation)
+- Open source contributions
+- React testing library & advanced patterns
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/chinmaykoshe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat&logo=netlify)](http://chinmaykoshe.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-gray?style=flat)](mailto:chinmaykoshe2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaykoshe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat&logo=netlify&logoColor=white)](http://chinmaykoshe.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-666666?style=flat&logo=gmail&logoColor=white)](mailto:chinmaykoshe2004@gmail.com)
 
-**Open to collaborations, internships, or feedback on my projects!**
+**Open to React internships, full-stack collaborations, & project feedback!**
 
-⭐ Star my repos | 👀 Watch for updates
+⭐ **Star my repos** | 👀 **Watch updates** | 💬 **Issues welcome** | 📈 **2 followers • 12 stars**
