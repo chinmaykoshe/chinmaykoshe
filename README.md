@@ -1,106 +1,103 @@
-# Hi, I'm Chinmay 👋
+<div align="center">
 
-💻 **MCA Student & Full-Stack Developer** | 🚀 Building scalable web apps  
-📍 Mumbai, India | 🔗 [Portfolio](http://chinmaykoshe.netlify.app/) | 📧 [chinmaykoshe2004@gmail.com](mailto:chinmaykoshe2004@gmail.com)
+# 👋 Hi, I'm **Chinmay Koshe** 
 
-![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaykoshe&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykoshe&layout=compact&theme=tokyonight&hide_border=true)
+<p>
+  <em>💻 MCA Student & Full-Stack Developer</em> | 
+  🚀 Building scalable web apps | 
+  📍 Mumbai, India
+</p>
 
----
+<br/>
 
-## 👨‍💻 About Me
+```mermaid
+graph TB
+    A[👨‍💻 chinmaykoshe] --> B[21 Repositories]
+    A --> C[2 Followers]
+    A --> D[12 Stars] 
+    A --> E[Weekly Commits]
+    A --> F[Updated 12min ago]
+    style A fill:#1f6feb,stroke:#333,stroke-width:3px
+    style B fill:#10b981
+    style C fill:#3b82f6
+    style D fill:#f59e0b
+</div>
+🚀 About Me
+<div align="center"> **Passionate developer who *learns by shipping***. Mastered full-stack e-commerce with Firebase + React. </div>
+✨ Recent Highlights
+🏆 Achievement	📊 Stats
+21 repositories	✅ Live deployments
+Full-stack e-commerce	🎯 Accessibility specialist
+Chrome extensions	🔥 Weekly commits
+[!NOTE]
+"Consistency beats intensity. Build daily."
 
-Passionate developer who **learns by shipping**. Mastered full-stack e-commerce with Firebase + React, building accessible, production-ready apps.
+🛠️ Tech Stack
+<table align="center"> <tr> <td><b>🌐 Frontend</b></td> <td><b>🔥 Backend</b></td> <td><b>⚡ Tools</b></td> </tr> <tr> <td> ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-3DD5F3?style=for-the-badge&logo=tailwind&logoColor=white) </td> <td> ![Firebase](https://img.shields.io/badge/Firebase-FFCB91?style=for-the-badge&logo=firebase&logoColor=white) </td> <td> ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) </td> </tr> </table>
+🔥 Featured Projects
+🎯 Top Major Projects
+ecommerce firebase fullstack
 
-**Recent Highlights:**
-- **21 repos** • **2 followers** • **12 stars** • Weekly commits
-- Full-stack e-commerce (auth, realtime cart, CRUD operations)
-- Chrome extensions • Accessibility specialist • Live deployments
-- Updated **12 minutes ago** 🚀
+<div align="center">
+🛒 Ritual Cakes
 
-> "Consistency beats intensity. Build daily."
 
----
+🛒 Ritual Cakes E-Commerce
+Full-stack cake shop: Firebase Auth, Firestore products, realtime cart
+JavaScript 1⭐ Updated 2 days ago
 
-## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCB91?style=flat&logo=firebase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-3DD5F3?style=flat&logo=tailwind&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
----
 
-## 🚀 Featured Projects
+🌟 Glow Naturals
 
-### 🔥 **Top Major Projects** `ecommerce` `firebase` `fullstack`
 
-[![🛒 Ritual Cakes Live](https://img.shields.io/badge/Live-🛒_Ritual_Cakes-00C7B7?style=flat&logo=vercel)](https://ritual-cakes--alpha.vercel.app/)
-**🛒 [Ritual Cakes E-Commerce](https://github.com/chinmaykoshe/ritual-cakes-new)**  
-Full-stack cake shop: Firebase Auth, Firestore products, realtime cart.  
-`JavaScript` `1⭐` `Updated 2 days ago`
+🌟 Glow Naturals E-Commerce
+Premium skincare shop with modern Tailwind UI
+JavaScript Updated 3 days ago
 
-[![🌟 Glow Naturals Live](https://img.shields.io/badge/Live-🌟_Glow_Naturals-00C7B7?style=flat&logo=netlify)](https://glownaturals.netlify.app/)
-**🌟 [Glow Naturals E-Commerce](https://github.com/chinmaykoshe/glow-naturals-new)**  
-Premium skincare shop with modern Tailwind UI.  
-`JavaScript` `Updated 3 days ago`
+</div>
+⭐ Major Projects
+react javascript mern
 
-### ⭐ **Major Projects** `react` `javascript` `mern`
+Project	Description	Status
+💼 Hiring Hub	Job platform job-board	1⭐ 2w ago
+📚 Visual Classroom	EdTech platform edtech	1⭐
+🍕 FoodFly	Food delivery food-delivery	1⭐
+🏨 Hotel Hunt	MERN hotel booking mern	1⭐
+⚡ Utility Projects
+accessibility chrome-ext
 
-**💼 [Hiring Hub](https://github.com/chinmaykoshe/hiring-hub)** `job-board` `1⭐` `Updated 2 weeks ago`  
-Job platform with structured search & filters.
+<div align="center">
+🛠️ Live Demos	🔗 Projects
+♿ Accessible Stocks	Accessible Stocks Task a11y
+📄 Resume Builder	ResumeCraft 1⭐
+📱 Firebase Notepad	Firebase Notepad 1⭐
+🌐 Mini Portfolio	Mini Portfolio
+🔧 PDF Merge Extension chrome-ext pdf-merger 1⭐
 
-**📚 [Visual Classroom](https://github.com/chinmaykoshe/visualclassrom)** `edtech` `1⭐` `Updated Jan 4`  
-Interactive learning platform with animations.
+</div>
+👉 View all 21 repositories
 
-**🍕 [FoodFly](https://github.com/chinmaykoshe/foodfly)** `food-delivery` `1⭐` `Updated Jan 4`  
-Food delivery app with smooth checkout flow.
+📚 Currently Learning
+text
+graph TD
+    A[🔥 Firebase Functions] --> B[System Design]
+    C[🐍 Python Tooling] --> D[Sphinx Docs]
+    E[🧪 React Testing] --> F[Open Source]
+    style A fill:#FF6B6B
+    style C fill:#4ECDC4
+    style E fill:#45B7D1
+🤝 Let's Connect
+<div align="center">
+Portfolio
+LinkedIn
+Email
+GitHub
 
-**🏨 [Hotel Hunt](https://github.com/chinmaykoshe/hotel-hunt)** `mern` `1⭐` `Updated Jan 4`  
-Hotel booking system built with MERN stack.
+</div> <div align="center">
+🧑‍💻 Open to React internships, full-stack collabs & project feedback!
 
-### ⚡ **Utility Projects** `accessibility` `chrome-ext` `tools`
+⭐ Star my repos | 👀 Watch updates | 💬 Issues welcome
 
-[![♿ Accessible Stocks Live](https://img.shields.io/badge/Live-♿_Stocks-00C7B7?style=flat&logo=github)](https://chinmaykoshe.github.io/Accessible-Stocks-Task/)
-**♿ [Accessible Stocks Task](https://github.com/chinmaykoshe/Accessible-Stocks-Task)** `a11y` `ARIA` `Updated 3 days ago`  
-Semantic HTML + ARIA roles for screen readers.
-
-[![📄 Resume Builder Live](https://img.shields.io/badge/Live-📄_Resume-00C7B7?style=flat&logo=github)](https://chinmaykoshe.github.io/resume-builder/)
-**📄 [ResumeCraft Builder](https://github.com/chinmaykoshe/resume-builder)** `resume` `1⭐` `Updated 4 days ago`  
-Dynamic resume generator + PDF export.
-
-[![📱 Firebase Notepad Live](https://img.shields.io/badge/Live-📱_Notepad-00C7B7?style=flat&logo=github)](https://chinmaykoshe.github.io/firebase-notepad/freenote.html)
-**📱 [Firebase Notepad](https://github.com/chinmaykoshe/firebase-notepad)** `collab` `1⭐` `Updated Oct 14`  
-Realtime collaborative notepad with Firebase.
-
-[![🌐 Mini Portfolio Live](https://img.shields.io/badge/Live-🌐_Portfolio-00C7B7?style=flat&logo=github)](https://chinmaykoshe.github.io/mini-portfolio/)
-**🌐 [Mini Portfolio](https://github.com/chinmaykoshe/mini-portfolio)** `portfolio` `Updated Dec 23`  
-Clean responsive portfolio showcase.
-
-**🔧 [PDF Merge Extension](https://github.com/chinmaykoshe/pdf-merge-extension)** `chrome-ext` `pdf` `1⭐` `Nov 10`  
-Drag-drop PDF merger with preview. `chrome-extension` `pdf-merger`
-
-**[View all 21 repositories →](https://github.com/chinmaykoshe?tab=repositories)**
-
----
-
-## 📚 Currently Learning
-
-`backend` `system-design` `testing` `opensource`
-- Firebase Functions & scalability
-- Python tooling (Sphinx documentation)
-- Open source contributions
-- React testing library & advanced patterns
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaykoshe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat&logo=netlify&logoColor=white)](http://chinmaykoshe.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-666666?style=flat&logo=gmail&logoColor=white)](mailto:chinmaykoshe2004@gmail.com)
-
-**Open to React internships, full-stack collaborations, & project feedback!**
-
-⭐ **Star my repos** | 👀 **Watch updates** | 💬 **Issues welcome** | 📈 **2 followers • 12 stars**
+</div> ```
