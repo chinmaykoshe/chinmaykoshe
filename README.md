@@ -41,26 +41,15 @@
 
 ## 🛠️ **Tech Stack**
 
-<table align="center">
-<tr>
-  <td><b>🌐 Frontend</b></td>
-  <td><b>🔥 Backend</b></td> 
-  <td><b>⚡ Tools</b></td>
-</tr>
-<tr>
-  <td>
-    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-    ![Tailwind](https://img.shields.io/badge/Tailwind-3DD5F3?style=for-the-badge&logo=tailwind&logoColor=white)
-  </td>
-  <td>
-    ![Firebase](https://img.shields.io/badge/Firebase-FFCB91?style=for-the-badge&logo=firebase&logoColor=white)
-  </td>
-  <td>
-    ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-    ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  </td>
-</tr>
-</table>
+<div align="center">
+
+| 🌐 **Frontend** | 🔥 **Backend** | ⚡ **Tools** |
+|----------------|----------------|-------------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCB91?style=for-the-badge&logo=firebase&logoColor=black) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_3DD5F3?style=for-the-badge&logo=tailwind&logoColor=white) | | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+
+</div>
 
 ---
 
