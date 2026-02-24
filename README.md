@@ -1,96 +1,73 @@
 # Hi, I'm Chinmay 👋
 
-💻 Student Developer | Working Professional  
-🚀 Building real-world web applications  
-📍 Based in India  
+💻 **MCA Student & Full-Stack Developer** | 🚀 Building scalable web apps  
+📍 Mumbai, India | 🔗 [Portfolio](http://chinmaykoshe.netlify.app/) | 📧 chinmaykoshe@example.com
+
+![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaykoshe&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykoshe&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a developer who believes in learning by building.
+Passionate developer who **learns by shipping**. From vanilla JS portfolios to Firebase-powered e-commerce, I build clean, accessible, production-ready apps.
 
-Instead of just completing tutorials, I focus on creating practical projects — from portfolio websites to full e-commerce systems. I enjoy turning ideas into clean, functional, and scalable web applications.
+**Currently building:**
+- Full-stack e-commerce with React + Firebase
+- Chrome extensions & developer tools
+- Accessible UIs (ARIA, semantic HTML)
 
-Currently exploring:
-- Full-Stack Development
-- Backend architecture & APIs
-- Firebase & database systems
-- Technical documentation tools like Sphinx
-- Python-based developer tools
+**Recent Wins:**
+- Deployed 5+ live projects on Netlify (e.g., [Glow Naturals](https://github.com/chinmaykoshe/glow-naturals-new), [Ritual Cakes](https://github.com/chinmaykoshe/ritual-cakes-new))
+- PDF Merge Chrome Extension: Drag-drop, preview, instant download
+- 21 repos, consistent weekly commits
+
+> "Consistency beats intensity. Build daily."
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript (ES6+)
-- React
-
-**Backend & Database**
-- Firebase (Auth, Firestore, Functions)
-- SQL (Basics)
-- REST API concepts
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Netlify
-- Vite
+| **Frontend** | **Backend/Database** | **Tools** |
+|--------------|----------------------|-----------|
+| React, JS ES6+ | Firebase (Auth, Firestore, Functions) | Vite, Tailwind CSS, Git |
+| HTML5, CSS3 | SQL Basics, REST APIs | VS Code, Netlify |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 ResumeCraft – Professional Resume Builder
-A modern resume-building web application focused on clean UI and user experience.
+### 🎨 [React Portfolio Website](https://github.com/chinmaykoshe/React-portfolio-website)
+Modern responsive portfolio with scroll animations, custom cursors, confetti effects. **React + Vite + Tailwind**.
 
-### 🔹 Cake Shop E-Commerce Website
-Full-stack project with authentication, product management, and structured database integration.
+### 🛒 [Ritual Cakes E-Commerce](https://github.com/chinmaykoshe/ritual-cakes-new)
+Full-stack shop: Auth, product CRUD, Firestore realtime cart. **Live Demo** [here](https://ritual-cakes--alpha.vercel.app).
 
-### 🔹 Personal Portfolio Website
-Built using plain HTML, Tailwind CSS, and JavaScript with:
-- Scroll animations
-- Custom cursor effects
-- Confetti interaction
-- Clean responsive design
+### 📄 [PDF Merge Extension](https://github.com/chinmaykoshe/pdf-merge-extension)
+Chrome extension for drag-drop PDF merging with previews. **1⭐ | Practical tooling**.
 
----
+### 📝 [ResumeCraft Builder](https://github.com/chinmaykoshe/resume-builder)
+Dynamic resume generator with PDF export. **Clean UX focus**.
 
-## 📚 What I'm Working On
-
-- Improving backend logic and scalability
-- Learning structured system design
-- Exploring Python libraries for developer tooling
-- Enhancing documentation systems using Sphinx
+**More projects** → [21 Repos](https://github.com/chinmaykoshe?tab=repositories)
 
 ---
 
-## 🎯 Goals
+## 📚 What I'm Learning & Building
 
-- Build production-ready full-stack applications  
-- Contribute to open source  
-- Strengthen backend and database architecture skills  
-- Continuously improve code quality and problem-solving  
-
----
-
-## 📊 GitHub Stats
-
-![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaykoshe&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykoshe&layout=compact&theme=tokyonight)
+- Backend scalability (Firebase Functions, system design)
+- Python dev tools (Sphinx docs)
+- Open-source contributions
+- Advanced React (hooks, context, testing)
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- GitHub: https://github.com/chinmaykoshe
-- LinkedIn: (Add your link here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/chinmaykoshe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat&logo=netlify)](http://chinmaykoshe.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-gray?style=flat)](mailto:chinmaykoshe2004@gmail.com)
 
----
+**Open to collaborations, internships, or feedback on my projects!**
 
-> “Consistency beats intensity. Build daily.”
+⭐ Star my repos | 👀 Watch for updates
